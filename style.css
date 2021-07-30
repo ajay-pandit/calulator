@@ -1,0 +1,30 @@
+div.main{
+    border: 2px solid black;
+    border-radius: 8px;
+    margin: auto 0;
+    background-color: red;
+    text-align: center;
+    display: inline-block;
+    margin: 200px 600px;
+}
+
+input{
+    font-size: 38px;
+    border-radius: 5px;
+    border: 2px solid black;
+    margin: 5px;
+    margin-top: 7px;
+   height: 50px;
+   width: 245px;
+}
+button{
+    height: 60px;
+    width: 60px;
+    border-radius: 12px;
+    font-size: 40px;;
+}
+
+table{
+    padding: 8px;;
+    margin: auto;
+}
